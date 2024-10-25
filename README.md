@@ -1,4 +1,4 @@
-# ![Banner](https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg){:height="200px"} <!-- Add your banner image URL here -->
+# ![Banner](https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg {:height="200px"}) <!-- Add your banner image URL here -->
 # 💫 About Me:
 👋 Hi there! I’m Ankit Roshan, a passionate Programmer . I love coding and exploring new technologies. and since then, I've been dedicated to building innovative solutions. I’m always eager to learn and collaborate, so feel free to reach out!
 ![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3NlYm04YnJkMHZhMXJnNm83czJteXR3bDFuOGNqZzdyN3h6bHp0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/200.webp)
