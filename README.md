@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I’m Ankit Roshan, a passionate Programmer . I love coding and exploring new technologies. and since then, I've been dedicated to building innovative solutions.
+👋 Hi there! I’m Ankit Roshan, a passionate Programmer . I love coding and exploring new technologies. and since then, I've been dedicated to building innovative solutions. I’m always eager to learn and collaborate, so feel free to reach out!
 
 
 ## 🌐 Socials:
