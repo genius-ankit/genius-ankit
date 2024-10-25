@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3FyODV3M3I4cHE5MW9qcmkwb2hzZDlwYWU0b2psc3AxZmg5Z3NmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l56sRHrlQufjEjZfwQ/giphy.webp))](https://rishavchanda.io)
 
 # 💫 About Me:
 👋 Hi there! I’m Ankit Roshan, a passionate Programmer . I love coding and exploring new technologies. and since then, I've been dedicated to building innovative solutions. I’m always eager to learn and collaborate, so feel free to reach out!
