@@ -10,7 +10,7 @@
 <!-- <a href="https://twitter.com/VishwaGauravIn" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" /></a> -->
 <a href="https://www.linkedin.com/in/ankitroshan13/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
-<a href="" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
+
 
 # 💫 About Me:
 👋 Hi there! I’m Ankit Roshan, a passionate Programmer . I love coding and exploring new technologies. and since then, I've been dedicated to building innovative solutions. I’m always eager to learn and collaborate, so feel free to reach out!
