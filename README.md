@@ -1,4 +1,17 @@
 # <img src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg" style="height: 350px; width: 100%;" alt="Banner Image">
+
+<h1 align="center"> Hi 👋🏻, I'm Ankit Roshan </br> 
+</h1>
+<p align="center">Tech Curious ⚡</p>
+<p align="center">Focused on building Innovative Solutions 🚀</p>
+<p align="center">
+ <a href=buymeacoffee.com/genius_ankit target="_blank"><img alt="" src="https://img.shields.io/badge/Donate-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
+ <a href="https://ankitroshan.vercel.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<!-- <a href="https://twitter.com/VishwaGauravIn" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" /></a> -->
+<a href="https://www.linkedin.com/in/ankitroshan13/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
+<a href="" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
+
 # 💫 About Me:
 👋 Hi there! I’m Ankit Roshan, a passionate Programmer . I love coding and exploring new technologies. and since then, I've been dedicated to building innovative solutions. I’m always eager to learn and collaborate, so feel free to reach out!
 ![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3NlYm04YnJkMHZhMXJnNm83czJteXR3bDFuOGNqZzdyN3h6bHp0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/200.webp)
